@@ -27,7 +27,8 @@ config.Data.outputDatasetTag = 'TEMPL_DATASETTAG'
 
 config.Data.partialDataset = True
 
-config.Site.storageSite = 'T2_CH_CERN'
+#config.Site.storageSite = 'T2_CH_CERN'
+config.Site.storageSite = 'T2_DE_DESY'
 config.JobType.allowUndistributedCMSSW = True
 
 config.Data.allowNonValidInputDataset = True
