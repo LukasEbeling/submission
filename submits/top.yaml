@@ -1,0 +1,1190 @@
+tasks:
+   - TTtoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8
+   - TTtoLNu2Q_TuneCP5_13p6TeV_powheg-pythia80
+   - TTtoLNu2Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8
+   - TTtoLNu2Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8
+   - TTtoLNu2Q_MT-166p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTtoLNu2Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTtoLNu2Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTtoLNu2Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTtoLNu2Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTtoLNu2Q_MT-178p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTtoLNu2Q_TuneCP5CR1_13p6TeV_powheg-pythia8
+   - TTtoLNu2Q_TuneCP5CR2_13p6TeV_powheg-pythia8
+   - TTtoLNu2Q_TuneCP5Down_13p6TeV_powheg-pythia8
+   - TTtoLNu2Q_TuneCP5Up_13p6TeV_powheg-pythia8
+   - TTtoLNu2Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia81
+   - TTto2L2Nu_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_MT-166p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_MT-178p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_TuneCP5CR1_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_TuneCP5CR2_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_TuneCP5Down_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_TuneCP5Up_13p6TeV_powheg-pythia8
+   - TTto2L2Nu_TuneCP5_ERDOn_13p6TeV_powheg-pythia8
+   - TTto4Q_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto4Q_TuneCP5_13p6TeV_powheg-pythia82
+   - TTto4Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto4Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto4Q_MT-166p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto4Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto4Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto4Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto4Q_MT-178p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TTto4Q_TuneCP5CR1_13p6TeV_powheg-pythia8
+   - TTto4Q_TuneCP5Down_13p6TeV_powheg-pythia8
+   - TTto4Q_TuneCP5Up_13p6TeV_powheg-pythia8
+   - TTto4Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8
+   - TBbarQ_t-channel_4FS_TuneCP5_13p6TeV_powheg-madspin-pythia8
+   - TbarBQ_t-channel_4FS_TuneCP5_13p6TeV_powheg-madspin-pythia8
+   - TWminustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia83
+   - TWminustoLNu2Q_DS_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminustoLNu2Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminustoLNu2Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminustoLNu2Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminustoLNu2Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminustoLNu2Q_TuneCP5CR1_13p6TeV_powheg-pythia8
+   - TWminustoLNu2Q_TuneCP5CR2_13p6TeV_powheg-pythia8
+   - TWminustoLNu2Q_TuneCP5Down_13p6TeV_powheg-pythia8
+   - TWminustoLNu2Q_TuneCP5Up_13p6TeV_powheg-pythia8
+   - TWminustoLNu2Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8
+   - TbarWplustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia84
+   - TbarWplustoLNu2Q_DS_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplustoLNu2Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplustoLNu2Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplustoLNu2Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplustoLNu2Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplustoLNu2Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplustoLNu2Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplustoLNu2Q_TuneCP5CR1_13p6TeV_powheg-pythia8
+   - TbarWplustoLNu2Q_TuneCP5CR2_13p6TeV_powheg-pythia8
+   - TbarWplustoLNu2Q_TuneCP5Down_13p6TeV_powheg-pythia8
+   - TbarWplustoLNu2Q_TuneCP5Up_13p6TeV_powheg-pythia8
+   - TbarWplustoLNu2Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8
+   - TWminusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia85
+   - TWminusto2L2Nu_DS_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto2L2Nu_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto2L2Nu_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto2L2Nu_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto2L2Nu_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto2L2Nu_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto2L2Nu_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto2L2Nu_TuneCH3_13p6TeV_powheg-herwig7
+   - TWminusto2L2Nu_TuneCP5CR1_13p6TeV_powheg-pythia8
+   - TWminusto2L2Nu_TuneCP5CR2_13p6TeV_powheg-pythia8
+   - TWminusto2L2Nu_TuneCP5Down_13p6TeV_powheg-pythia8
+   - TWminusto2L2Nu_TuneCP5Up_13p6TeV_powheg-pythia8
+   - TWminusto2L2Nu_TuneCP5_ERDOn_13p6TeV_powheg-pythia8
+   - TbarWplusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia86
+   - TbarWplusto2L2Nu_DS_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto2L2Nu_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto2L2Nu_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto2L2Nu_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto2L2Nu_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto2L2Nu_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto2L2Nu_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto2L2Nu_TuneCH3_13p6TeV_powheg-herwig7
+   - TbarWplusto2L2Nu_TuneCP5CR1_13p6TeV_powheg-pythia8
+   - TbarWplusto2L2Nu_TuneCP5CR2_13p6TeV_powheg-pythia8
+   - TbarWplusto2L2Nu_TuneCP5Down_13p6TeV_powheg-pythia8
+   - TbarWplusto2L2Nu_TuneCP5Up_13p6TeV_powheg-pythia8
+   - TbarWplusto2L2Nu_TuneCP5_ERDOn_13p6TeV_powheg-pythia8
+   - TWminusto4Q_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto4Q_TuneCP5_13p6TeV_powheg-pythia87
+   - TWminusto4Q_DS_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto4Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto4Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto4Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto4Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto4Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto4Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TWminusto4Q_TuneCP5CR1_13p6TeV_powheg-pythia8
+   - TWminusto4Q_TuneCP5CR2_13p6TeV_powheg-pythia8
+   - TWminusto4Q_TuneCP5Down_13p6TeV_powheg-pythia8
+   - TWminusto4Q_TuneCP5Up_13p6TeV_powheg-pythia8
+   - TWminusto4Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8
+   - TbarWplusto4Q_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto4Q_TuneCP5_13p6TeV_powheg-pythia88
+   - TbarWplusto4Q_DS_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto4Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto4Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto4Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto4Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto4Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto4Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8
+   - TbarWplusto4Q_TuneCP5CR1_13p6TeV_powheg-pythia8
+   - TbarWplusto4Q_TuneCP5CR2_13p6TeV_powheg-pythia8
+   - TbarWplusto4Q_TuneCP5Down_13p6TeV_powheg-pythia8
+   - TbarWplusto4Q_TuneCP5Up_13p6TeV_powheg-pythia8
+   - TbarWplusto4Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8
+   - TTZ-ZtoQQ-1Jets_TuneCP5_13p6TeV_amcatnloFXFX-pythia8
+   - TTZZ_TuneCP5_13p6TeV_madgraph-madspin-pythia8
+   - TTWW_TuneCP5_13p6TeV_madgraph-madspin-pythia8
+
+TTtoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_TuneCP5_13p6TeV_powheg-pythia80:
+  input_dataset: /TTtoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_MT-166p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_MT-166p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_MT-166p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_MT-178p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_MT-178p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_MT-178p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_TuneCP5CR1_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_TuneCP5CR2_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_TuneCP5Down_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_TuneCP5Up_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTtoLNu2Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8:
+  input_dataset: /TTtoLNu2Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTtoLNu2Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia81:
+  input_dataset: /TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v1/MINIAODSIM
+  output_dir: TTto2L2Nu_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v1/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_MT-166p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_MT-166p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_MT-166p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_MT-178p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_MT-178p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_MT-178p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_TuneCP5CR1_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_TuneCP5CR2_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_TuneCP5Down_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_TuneCP5Up_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto2L2Nu_TuneCP5_ERDOn_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto2L2Nu_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto2L2Nu_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto4Q_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto4Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto4Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto4Q_TuneCP5_13p6TeV_powheg-pythia82:
+  input_dataset: /TTto4Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/MINIAODSIM
+  output_dir: TTto4Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto4Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto4Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v1/MINIAODSIM
+  output_dir: TTto4Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v1/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto4Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto4Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto4Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto4Q_MT-166p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto4Q_MT-166p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto4Q_MT-166p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto4Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto4Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto4Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto4Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto4Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto4Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto4Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto4Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto4Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto4Q_MT-178p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto4Q_MT-178p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto4Q_MT-178p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto4Q_TuneCP5CR1_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto4Q_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto4Q_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto4Q_TuneCP5Down_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto4Q_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto4Q_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto4Q_TuneCP5Up_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto4Q_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto4Q_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTto4Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8:
+  input_dataset: /TTto4Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTto4Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TBbarQ_t-channel_4FS_TuneCP5_13p6TeV_powheg-madspin-pythia8:
+  input_dataset: /TBbarQ_t-channel_4FS_TuneCP5_13p6TeV_powheg-madspin-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TBbarQ_t-channel_4FS_TuneCP5_13p6TeV_powheg-madspin-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarBQ_t-channel_4FS_TuneCP5_13p6TeV_powheg-madspin-pythia8:
+  input_dataset: /TbarBQ_t-channel_4FS_TuneCP5_13p6TeV_powheg-madspin-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarBQ_t-channel_4FS_TuneCP5_13p6TeV_powheg-madspin-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia83:
+  input_dataset: /TWminustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/MINIAODSIM
+  output_dir: TWminustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminustoLNu2Q_DS_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminustoLNu2Q_DS_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminustoLNu2Q_DS_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminustoLNu2Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminustoLNu2Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminustoLNu2Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminustoLNu2Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminustoLNu2Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminustoLNu2Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminustoLNu2Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminustoLNu2Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminustoLNu2Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminustoLNu2Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminustoLNu2Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminustoLNu2Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminustoLNu2Q_TuneCP5CR1_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminustoLNu2Q_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminustoLNu2Q_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminustoLNu2Q_TuneCP5CR2_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminustoLNu2Q_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminustoLNu2Q_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminustoLNu2Q_TuneCP5Down_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminustoLNu2Q_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminustoLNu2Q_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminustoLNu2Q_TuneCP5Up_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminustoLNu2Q_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminustoLNu2Q_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminustoLNu2Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminustoLNu2Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminustoLNu2Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia84:
+  input_dataset: /TbarWplustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_DS_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplustoLNu2Q_DS_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_DS_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplustoLNu2Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplustoLNu2Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplustoLNu2Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplustoLNu2Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplustoLNu2Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplustoLNu2Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_TuneCP5CR1_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplustoLNu2Q_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_TuneCP5CR2_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplustoLNu2Q_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_TuneCP5Down_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplustoLNu2Q_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_TuneCP5Up_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplustoLNu2Q_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplustoLNu2Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplustoLNu2Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplustoLNu2Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia85:
+  input_dataset: /TWminusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_DS_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto2L2Nu_DS_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_DS_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto2L2Nu_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto2L2Nu_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto2L2Nu_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto2L2Nu_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto2L2Nu_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto2L2Nu_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_TuneCH3_13p6TeV_powheg-herwig7:
+  input_dataset: /TWminusto2L2Nu_TuneCH3_13p6TeV_powheg-herwig7/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v4/MINIAODSIM
+  output_dir: TWminusto2L2Nu_TuneCH3_13p6TeV_powheg-herwig7/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v4/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_TuneCP5CR1_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto2L2Nu_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_TuneCP5CR2_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto2L2Nu_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_TuneCP5Down_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto2L2Nu_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_TuneCP5Up_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto2L2Nu_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto2L2Nu_TuneCP5_ERDOn_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto2L2Nu_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto2L2Nu_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia86:
+  input_dataset: /TbarWplusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_DS_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto2L2Nu_DS_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_DS_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto2L2Nu_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto2L2Nu_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto2L2Nu_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto2L2Nu_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto2L2Nu_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto2L2Nu_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_TuneCH3_13p6TeV_powheg-herwig7:
+  input_dataset: /TbarWplusto2L2Nu_TuneCH3_13p6TeV_powheg-herwig7/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v3/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_TuneCH3_13p6TeV_powheg-herwig7/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v3/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_TuneCP5CR1_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto2L2Nu_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_TuneCP5CR2_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto2L2Nu_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_TuneCP5Down_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto2L2Nu_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_TuneCP5Up_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto2L2Nu_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto2L2Nu_TuneCP5_ERDOn_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto2L2Nu_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto2L2Nu_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto4Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto4Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_TuneCP5_13p6TeV_powheg-pythia87:
+  input_dataset: /TWminusto4Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/MINIAODSIM
+  output_dir: TWminusto4Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_DS_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto4Q_DS_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto4Q_DS_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto4Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto4Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto4Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto4Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto4Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto4Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto4Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto4Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto4Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto4Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto4Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto4Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_TuneCP5CR1_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto4Q_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto4Q_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_TuneCP5CR2_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto4Q_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto4Q_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_TuneCP5Down_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto4Q_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto4Q_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_TuneCP5Up_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto4Q_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto4Q_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TWminusto4Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8:
+  input_dataset: /TWminusto4Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TWminusto4Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto4Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_TuneCP5_13p6TeV_powheg-pythia88:
+  input_dataset: /TbarWplusto4Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6_ext1-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_DS_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto4Q_DS_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_DS_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto4Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_Hdamp-158_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto4Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_Hdamp-418_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto4Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_MT-169p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto4Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_MT-171p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto4Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_MT-173p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto4Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_MT-175p5_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_TuneCP5CR1_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto4Q_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_TuneCP5CR1_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_TuneCP5CR2_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto4Q_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_TuneCP5CR2_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_TuneCP5Down_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto4Q_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_TuneCP5Down_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_TuneCP5Up_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto4Q_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_TuneCP5Up_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TbarWplusto4Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8:
+  input_dataset: /TbarWplusto4Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TbarWplusto4Q_TuneCP5_ERDOn_13p6TeV_powheg-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTZ-ZtoQQ-1Jets_TuneCP5_13p6TeV_amcatnloFXFX-pythia8:
+  input_dataset: /TTZ-ZtoQQ-1Jets_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTZ-ZtoQQ-1Jets_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTZZ_TuneCP5_13p6TeV_madgraph-madspin-pythia8:
+  input_dataset: /TTZZ_TuneCP5_13p6TeV_madgraph-madspin-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v3/MINIAODSIM
+  output_dir: TTZZ_TuneCP5_13p6TeV_madgraph-madspin-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v3/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
+TTWW_TuneCP5_13p6TeV_madgraph-madspin-pythia8:
+  input_dataset: /TTWW_TuneCP5_13p6TeV_madgraph-madspin-pythia8/Run3Summer22EEMiniAODv4-130X_mcRun3_2022_realistic_postEE_v6-v2/MINIAODSIM
+  output_dir: TTWW_TuneCP5_13p6TeV_madgraph-madspin-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM
+  crab: True
+  splitting_mode: Automatic
+  splitting_granularity: 200
+  max_events: -1
+
